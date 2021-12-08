@@ -31,20 +31,20 @@ let tags = {
 const defaultMenu = {
   before: `
 ╭─「 %me 」
-│ Hai, %name!
+│🎉Hai, %name!
 │
-│ Tersisa *%limit Limit*
-│ Role *%role*
-│ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
-│ %totalexp XP in Total
+│🏋️‍♂️ Tersisa *%limit Limit*
+│🎢Role *%role*
+│🦠Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
+│🦾%totalex XP in Total
 │ 
-│ Tanggal: *%week %weton, %date*
-│ Tanggal Islam: *%dateIslamic*
-│ Waktu: *%time*
+│📅Tanggal: *%week %weton, %date*
+│📅Tanggal Islam: *%dateIslamic*
+│🕕Waktu: *%time*
 │
-│ Uptime: *%uptime (%muptime)*
-│ Database: %rtotalreg of %totalreg
-│ youtube:
+│🕕Uptime: *%uptime (%muptime)*
+│📂Database: %rtotalreg of %totalreg
+│▶️cara bikin bot seperti ini cek dibawah :
 │ %github
 ╰────
 %readmore`.trimStart(),
