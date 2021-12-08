@@ -36,7 +36,7 @@ const defaultMenu = {
 │🏋️‍♂️ Tersisa *%limit Limit*
 │🎢Role *%role*
 │🦠Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
-│🦾%totalex XP in Total
+│🦾%totalexp XP in Total
 │ 
 │📅Tanggal: *%week %weton, %date*
 │📅Tanggal Islam: *%dateIslamic*
